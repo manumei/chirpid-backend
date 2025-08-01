@@ -1,3 +1,5 @@
+**⚠️ IMPORTANT:** To run these files, the BirdClef dataset is needed, it was not uploaded to the repository due to its size (~42Gb), but can be found and downloaded locally at https://www.kaggle.com/c/birdclef-2021/data
+
 **Status Meaning**
 - Finished ☑️ | Notebook has been completed and run. Its purpose has been achieved, it does not need to be used or modified anymore
 - Developed 🚀 | Notebook logic is basically complete, but notebook hasn't been properly executed, so looking at it still serves purpose
